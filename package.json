@@ -1,0 +1,18 @@
+{
+  "name": "nodecrashcourse",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index1",
+    "dev": "nodemon index1"
+  },
+  "author": "Tanjina Mehnaz Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
